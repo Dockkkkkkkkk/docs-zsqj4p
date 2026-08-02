@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-r65rxw.bento4d56uyj.cyou/sitemap.xml
